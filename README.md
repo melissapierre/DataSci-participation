@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Exercise One: Editing Readme.md
 
 ## Repository definition 
@@ -16,3 +17,8 @@ A **repository** is a central file location that is used by organizations and in
 
 # Introduction
 Hello everyone, my name is Melissa Pierre :smiley: I am currently a senior majoring in Psychology. I am interested in neuroscience, cognitive psychology and pretty much everything that can affect memory, learning, and behavior. I love to know more about human cognition by learning and conducting research in the Emac lab supervised by Dr. Schotter. After getting my BA in 2020, I am hoping to attend graduate school to get a degree in neuropsychology.
+=======
+# DataSci-participation
+#this is really going to break things
+
+>>>>>>> Stashed changes
