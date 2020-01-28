@@ -1,0 +1,55 @@
+---
+ title: "Homework One part 2"
+ Author: "Melissa Pierre"
+ date: "01/27/2020"
+ output: "html_document"
+---
+
+
+## RMarkdown for Dataset exploration
+
+**As the subtitle suggest, I will be analysing the mtcars data set by looking at the table, the structure and the summary.**
+
+* MTcars data set was extracted from the 1974 Motor Trend US magazine. It includes the design, performance and fuel economy of 32 automobiles from 1973 - 1974.*
+
+_Table of MTcars data below_
+
+```{r, echo=FALSE}
+mtcars
+```
+ **The table of the data set tells us the differents types of cars that were used.** 
+ 
+_Sturcture of MTcars data below_
+
+```{r, echo=FALSE}
+str(mtcars)
+```
+**The structure of the data set tells us that 32 rows and 11 variables.**
+
+_Names used in the structure below_
+
+```{r, echo=FALSE}
+names(mtcars)
+```
+
+_Mpg mean_
+
+**The average mpg of all the cars is 20.1**
+```{r, echo=FALSE}
+mean(mtcars$mpg)
+```
+
+
+_Cyl mean_
+
+**The average cyl of all the cars is 6.2** 
+```{r, echo=FALSE}
+mean(mtcars$cyl)
+```
+
+**To finish, we can see for each field the minimum, the 1st quadrant, the median, the mean,the 3rd Q, and the maximum)**
+```{r, echo=FALSE}
+summary(mtcars)
+```
+
+
