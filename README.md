@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Exercise One: Editing Readme.md
 
 ## Repository definition 
